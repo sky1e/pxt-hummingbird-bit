@@ -199,7 +199,7 @@ namespace hummingbird {
      * @param port the servo port to control [1-4]
      * @param angle the angle in degrees for the servo [0-180]; eg: 90
      */
-    //% weight=28 blockId="setPositionServo" block="Hummingbird Position Servo %port_num| %angle|°%%"
+    //% weight=28 blockId="setPositionServo" block="Hummingbird %%%% Position Servo %port_num| %angle|°%%"
     //%port_num.min=1 port_num.max=4
     //% angle.min=0 angle.max=180
     export function setPositionServo(port: FourPort, angle: number = 90): void {
