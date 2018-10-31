@@ -144,7 +144,7 @@ namespace hummingbird {
      * @param green the % brightness of the green LED element [0-100]
      * @param blue the % brightness of the blue LED element [0-100]
      */
-    //% weight=29 blockId="setTriLED" block="Hummingbird Tri-LED %port_num| Red %Red|\\% Green %Green|\\% Blue %Blue\\%"
+    //% weight=29 blockId="setTriLED" block="Hummingbird Tri-LED %port_num| Red %Red\\%| Green %Green\\%| Blue %Blue\\%|"
     //% port_num.min=1 port_num.max=2
     //% Red.min=0 Red.max=100
     //% Green.min=0 Green.max=100
