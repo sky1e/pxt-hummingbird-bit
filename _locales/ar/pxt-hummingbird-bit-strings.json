@@ -1,7 +1,7 @@
 {
   "hummingbird.startHummingbird|block": "\u202Bتشغيل الروبوت (هامنج بيرد)\u202C",
   "hummingbird.setTriLED|block": "\u202BHummingbird ضوء الصمام الثلاثي %Blue| %Green| %Red| %port_num|\u202C",
-  "hummingbird.setLED|block": "\u202BHummingbird %intensity| %port_num| ضوء\u202C",
+  "hummingbird.setLED|block": "\u202BHummingbird ضوء %intensity| %port_num|\u202C",
   "hummingbird.setPositionServo|block": "\u202BHummingbird موقف محرك سيرفو المؤازر %angle| %port_num|\u202C",
   "hummingbird.setRotationServo|block": "\u202BHummingbird فتحة دوران المحرك المؤازر %speed| %port_num|\u202C",
   "hummingbird.getSensor|block": "\u202BHummingbird %sensorType| %port_num|\u202C",
