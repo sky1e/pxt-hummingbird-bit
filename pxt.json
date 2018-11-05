@@ -22,7 +22,7 @@
         "_locales/nl/pxt-hummingbird-bit-strings.json",
         "_locales/pt/pxt-hummingbird-bit-strings.json",
         "_locales/zh-Hans/pxt-hummingbird-bit-strings.json",
-        "_locales/zh-Hant/pxt-hummingbird-bit-strings.json",
+        "_locales/zh-Hant/pxt-hummingbird-bit-strings.json"
     ],
     "testFiles": [
         "test.ts"
