@@ -93,7 +93,7 @@ namespace hummingbird {
      * @param port the LED port to control [1-3]
      * @param brightness the % brightness of the LED [0-100]
      */
-    //% weight=31 blockId="setLED" block="Hummingbird LED %port_num| %intensity |\\%"
+    //% weight=31 blockId="setLED" block="Hummingbird LED %port_num %intensity |\\%"
     //% port_num.min=1 port_num.max=3
     //% intensity.min=0 intensity.max=100
     export function setLED(port: ThreePort, intensity: number = 50): void {
