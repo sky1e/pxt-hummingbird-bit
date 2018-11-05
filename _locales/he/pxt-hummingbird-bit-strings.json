@@ -1,0 +1,14 @@
+{
+  "hummingbird.startHummingbird|block": "התחל יונק הדבש",
+  "hummingbird.setTriLED|block": "Hummingbird R %Red| G %Green| B %Blue| %port_num| לד שלושה צבעים",
+  "hummingbird.setLED|block": "Hummingbird % %intensity| %port_num| לד",
+  "hummingbird.setPositionServo|block": "Hummingbird %angle| %port_num| לסרוו מיקום",
+  "hummingbird.setRotationServo|block": "Hummingbird % %speed| %port_num| סרוו סיבובים",
+  "hummingbird.getSensor|block": "Hummingbird %sensorType| %port_num|",
+  "SensorType.Light|block": "Hummingbird (Slot 1) אור",
+  "SensorType.Distance|block": "מרחק סיימ",
+  "SensorType.Dial|block": "חיוג",
+  "SensorType.Sound|block": "קול",
+  "SensorType.Other|block": "אחר",
+  "hummingbird.getBattery|block": "Hummingbird סוללה"
+}

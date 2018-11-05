@@ -9,7 +9,20 @@
     "files": [
         "README.md",
         "main.ts",
-        "custom.ts"
+        "custom.ts",
+        "_locales/ar/pxt-hummingbird-bit-strings.json",
+        "_locales/ca/pxt-hummingbird-bit-strings.json",
+        "_locales/da/pxt-hummingbird-bit-strings.json",
+        "_locales/de/pxt-hummingbird-bit-strings.json",
+        "_locales/do/pxt-hummingbird-bit-strings.json",
+        "_locales/en/pxt-hummingbird-bit-strings.json",
+        "_locales/es/pxt-hummingbird-bit-strings.json",
+        "_locales/fr/pxt-hummingbird-bit-strings.json",
+        "_locales/he/pxt-hummingbird-bit-strings.json",
+        "_locales/nl/pxt-hummingbird-bit-strings.json",
+        "_locales/pt/pxt-hummingbird-bit-strings.json",
+        "_locales/zh-Hans/pxt-hummingbird-bit-strings.json",
+        "_locales/zh-Hant/pxt-hummingbird-bit-strings.json",
     ],
     "testFiles": [
         "test.ts"
