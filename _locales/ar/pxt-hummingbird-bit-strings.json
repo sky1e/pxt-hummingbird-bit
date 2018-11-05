@@ -1,14 +1,14 @@
 {
   "hummingbird.startHummingbird|block": "تشغيل الروبوت (هامنج بيرد)",
-  "hummingbird.setTriLED|block": "Hummingbird ضوء الصمام الثلاثي %Blue| %Green| %Red| %port_num|",
-  "hummingbird.setLED|block": "Hummingbird %intensity| %port_num| ضوء",
-  "hummingbird.setPositionServo|block": "Hummingbird موقف محرك سيرفو المؤازر %angle| %port_num|",
-  "hummingbird.setRotationServo|block": "Hummingbird فتحة دوران المحرك المؤازر %speed| %port_num|",
-  "hummingbird.getSensor|block": "Hummingbird %sensorType| %port_num|",
+  "hummingbird.setTriLED|block": "\u2066Hummingbird\u2069 ضوء الصمام الثلاثي %Blue| %Green| %Red| %port_num|",
+  "hummingbird.setLED|block": "\u2066Hummingbird\u2069 %intensity| %port_num| ضوء",
+  "hummingbird.setPositionServo|block": "\u2066Hummingbird\u2069 موقف محرك سيرفو المؤازر %angle| %port_num|",
+  "hummingbird.setRotationServo|block": "\u2066Hummingbird\u2069 فتحة دوران المحرك المؤازر %speed| %port_num|",
+  "hummingbird.getSensor|block": "\u2066Hummingbird\u2069 %sensorType| %port_num|",
   "SensorType.Light|block": "ضوء",
   "SensorType.Distance|block": "مسافه",
   "SensorType.Dial|block": "دوار",
   "SensorType.Sound|block": "الصوت",
   "SensorType.Other|block": "أخرى",
-  "hummingbird.getBattery|block": "البطارية Hummingbird"
+  "hummingbird.getBattery|block": "\u2066Hummingbird\u2069 البطارية"
 }
